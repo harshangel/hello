@@ -1,1 +1,4 @@
 # hello
+*Italic*
+
+**BOLD**
